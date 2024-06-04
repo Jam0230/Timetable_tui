@@ -1,0 +1,86 @@
+{
+ "a": {
+    "mon": {
+      "_1": {"Subject": "Physics", "Room": "L7", "Teacher": "Mr Yates"},
+      "_2": {"Subject": "Physics", "Room": "L7", "Teacher": "Mr Yates"},
+      "_3": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_4": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "", "Room": "", "Teacher": ""}
+    },
+    "tue": {
+      "_1": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_2": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_3": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_4": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "Computer Science", "Room": "G14", "Teacher": "Mr Massett"}
+    },
+    "wed": {
+      "_1": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_2": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_3": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"},
+      "_4": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "Computer Science", "Room": "G15", "Teacher": "Mrs Milliner"}
+    },
+    "thu": {
+      "_1": {"Subject": "Supervised Study", "Room": "LRC", "Teacher": ""},
+      "_2": {"Subject": "Supervised Study", "Room": "LRC", "Teacher": ""},
+      "_3": {"Subject": "Computer Science", "Room": "G14", "Teacher": "Mr Massett"},
+      "_4": {"Subject": "Computer Science", "Room": "G14", "Teacher": "Mr Massett"},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"}
+    },
+    "fri": {
+      "_1": {"Subject": "Computer Science", "Room": "G15", "Teacher": "Mrs Milliner"},
+      "_2": {"Subject": "Computer Science", "Room": "G15", "Teacher": "Mrs Milliner"},
+      "_3": {"Subject": "", "Room": "", "Teacher": ""},
+      "_4": {"Subject": "", "Room": "", "Teacher": ""},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"}
+    }
+  },
+  "b": {
+    "mon": {
+      "_1": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_2": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_3": {"Subject": "Physics", "Room": "L7", "Teacher": "Mr Yates"},
+      "_4": {"Subject": "Physics", "Room": "L7", "Teacher": "Mr Yates"},
+      "_5": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_6": {"Subject": "", "Room": "", "Teacher": ""}
+    },
+    "tue": {
+      "_1": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_2": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_3": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_4": {"Subject": "", "Room": "", "Teacher": ""},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "Physics", "Room": "L7", "Teacher": "Mr Yates"}
+    },
+    "wed": {
+      "_1": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"},
+      "_2": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"},
+      "_3": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_4": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"},
+      "_5": {"Subject": "", "Room": "", "Teacher": ""},
+      "_6": {"Subject": "RHPD", "Room": "T7", "Teacher": "Miss Goacher"}
+    },
+    "thu": {
+      "_1": {"Subject": "Computer Science", "Room": "G14", "Teacher": "Mr Massett"},
+      "_2": {"Subject": "Computer Science", "Room": "G14", "Teacher": "Mr Massett"},
+      "_3": {"Subject": "Supervised Study", "Room": "LRC", "Teacher": ""},
+      "_4": {"Subject": "Supervised Study", "Room": "LRC", "Teacher": ""},
+      "_5": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"},
+      "_6": {"Subject": "Further Maths", "Room": "E8", "Teacher": "Mr Edge"}
+    },
+    "fri": {
+      "_1": {"Subject": "", "Room": "", "Teacher": ""},
+      "_2": {"Subject": "", "Room": "", "Teacher": ""},
+      "_3": {"Subject": "Computer Science", "Room": "G15", "Teacher": "Mrs Milliner"},
+      "_4": {"Subject": "Computer Science", "Room": "G15", "Teacher": "Mrs Milliner"},
+      "_5": {"Subject": "Physics", "Room": "L3", "Teacher": "Mr Carter"},
+      "_6": {"Subject": "Further Maths", "Room": "E21", "Teacher": "Mrs Henderson-Smith"}
+    }
+  }
+}

@@ -35,8 +35,8 @@ struct Timetable {
     b: Week,
 }
 
-fn load_timetable(path: $str) -> Timetable{
-    
-}
+//fn load_timetable(path: $str) -> Timetable{
+//
+//}V
 
 fn main() {}
